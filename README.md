@@ -36,9 +36,9 @@
 
 ## 📊 GitHub Stats & Activity  
 
-![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?usernamea=daksh-ux&show_icons=true&theme=radical)  
+![Daksh's GitHub stats](https://github-readme-stats.vercel.app/api?username=daksh-ux&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daksh-ux&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daksh-ux&theme=radical)   
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=daksh-ux&theme=radical)  
 
 ---
 
